@@ -1,0 +1,11 @@
+.dockerignore
+
+.venv
+.remember
+.git
+
+.vscode/
+
+*.log
+tmp/
+.env
